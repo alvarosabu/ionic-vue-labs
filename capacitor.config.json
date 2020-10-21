@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.vue-lab",
   "appName": "ionic-vue-lab",
   "bundledWebRuntime": false,
   "npmClient": "npm",
